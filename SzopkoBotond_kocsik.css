@@ -1,0 +1,48 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;}
+.h {color: darkgreen;}
+
+.nav  {background-color: darkgreen; 
+       padding: 10px 
+}
+.nav li {
+    list-style-type:none;
+    display: inline-block; 
+    padding: 15px;
+
+}
+
+.nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none; 
+}
+
+/* display: grid;
+grid-template-areas;
+"h"
+"a"
+"f"*/
+
+
+.kepek img { width: 250px 
+ 
+}
+
+.Benz img { max-width: 250px;
+            margin: 10px;
+            border-style: double;
+            color: gainsboro;
+
+
+}
+
+.h {border-style: double;
+    margin: 10;
+    border-color: gainsboro;
+    max-width: 250px;
+    background-color: gainsboro;
+
+}
+
+
+ 
